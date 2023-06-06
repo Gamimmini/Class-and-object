@@ -1,0 +1,15 @@
+E:\Classes and Objects\Fan\obj\Debug\net7.0\Fan.csproj.AssemblyReference.cache
+E:\Classes and Objects\Fan\obj\Debug\net7.0\Fan.GeneratedMSBuildEditorConfig.editorconfig
+E:\Classes and Objects\Fan\obj\Debug\net7.0\Fan.AssemblyInfoInputs.cache
+E:\Classes and Objects\Fan\obj\Debug\net7.0\Fan.AssemblyInfo.cs
+E:\Classes and Objects\Fan\obj\Debug\net7.0\Fan.csproj.CoreCompileInputs.cache
+E:\Classes and Objects\Fan\bin\Debug\net7.0\Fan.exe
+E:\Classes and Objects\Fan\bin\Debug\net7.0\Fan.deps.json
+E:\Classes and Objects\Fan\bin\Debug\net7.0\Fan.runtimeconfig.json
+E:\Classes and Objects\Fan\bin\Debug\net7.0\Fan.dll
+E:\Classes and Objects\Fan\bin\Debug\net7.0\Fan.pdb
+E:\Classes and Objects\Fan\obj\Debug\net7.0\Fan.dll
+E:\Classes and Objects\Fan\obj\Debug\net7.0\refint\Fan.dll
+E:\Classes and Objects\Fan\obj\Debug\net7.0\Fan.pdb
+E:\Classes and Objects\Fan\obj\Debug\net7.0\Fan.genruntimeconfig.cache
+E:\Classes and Objects\Fan\obj\Debug\net7.0\ref\Fan.dll
